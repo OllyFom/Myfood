@@ -33,7 +33,7 @@ Foodgram — это современное веб-приложение для л
 ### Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/AVKharkova/foodgram.git
+git clone https://github.com/OllyFom/Myfood.git
 cd foodgram
 ```
 
