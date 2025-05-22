@@ -95,9 +95,6 @@ docker-compose exec backend python manage.py collectstatic --no-input
 - Надежная система резервного копирования
 - Мониторинг ошибок
 
-## Лицензия
-
-MIT License. Подробнее см. в файле LICENSE.
 
 ## Доступ
 
