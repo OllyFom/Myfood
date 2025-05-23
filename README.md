@@ -95,11 +95,6 @@ docker-compose exec backend python manage.py collectstatic --no-input
 - Надежная система резервного копирования
 - Мониторинг ошибок
 
-
-## Доступ
-
-- **Сайт**: [https://netkann.ru](https://netkann.ru)  
-
 ---
 ## Автор
 Фомина Ольга А-07-22
